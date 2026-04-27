@@ -1,0 +1,5 @@
+print(type(5))
+print(type(5.555))
+print(type(True))
+print(type("Aastha"))
+print(type([1,2,3,4]))
